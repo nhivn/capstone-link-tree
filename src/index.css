@@ -1,4 +1,4 @@
-body {
+html {
     /* https://uigradients.com/#VisionsofGrandeur */
     background: #000046;
     /* fallback for old browsers */
@@ -11,10 +11,10 @@ body {
 }
 
 .nhi-custom {
-    width: 90vw;
+    width: 93%;
     max-width: 37rem;
     padding: 1.5rem;
-    margin: auto;
+    margin: 1rem auto;
 }
 
 .panel {
@@ -38,7 +38,7 @@ body {
     box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
         0 0 0 1px rgba(10, 10, 10, 0.02);
     transition: transform 200ms ease-in;
-    margin-top: 2rem;
+    margin-bottom: 1.75rem;
 }
 
 .card:hover {
