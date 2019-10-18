@@ -7,21 +7,20 @@ export default () => {
       title: "GitHub",
       subtitle:
         "Check out our GitHub repository to see our project boards, code and spike reports.",
-      url: "https://github.com/",
+      url: "https://github.com/sardap/Capstone-2019-Data-Sharing",
       icon: "fab fa-github"
     },
     {
       title: "Presentation video",
       subtitle:
-        "Check out our GitHub repository to see our project boards, code and spike reports.",
-      url: "https://youtube.com/",
+        "Have a look at the video where we explain how our system solves the user stories.",
+      url: "https://www.youtube.com/watch?v=TzvGLQA4pl4",
       icon: "fab fa-youtube"
     },
     {
-      title: "GitHub",
-      subtitle:
-        "Check out our GitHub repository to see our project boards, code and spike reports.",
-      url: "https://github.com/",
+      title: "Data Broker",
+      subtitle: "Want to see our prototype in action? Check this out!",
+      url: "https://broker.secretwaterfall.club/",
       icon: "fas fa-user-circle"
     }
   ];
