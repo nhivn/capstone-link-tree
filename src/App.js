@@ -20,7 +20,7 @@ export default () => {
     {
       title: "Data Broker",
       subtitle: "Want to see our prototype in action? Check this out!",
-      url: "https://broker.secretwaterfall.club/",
+      url: "https://broker.secretwaterfall.club",
       icon: "fas fa-user-circle"
     }
   ];
